@@ -18,8 +18,10 @@ AI 도움 없음.
 ### 2026-04-18 작업
 로그인 기능 구현.
 배운 내용 마크다운 문서 추가.
-실행 방법: Spring boot를 실행한 후 Git Bash로 vue 폴더에 들어가서
-npm run serve 실행. 주소는 localhost:3000
+실행 방법: Spring boot를 실행한 후 Git Bash로 vue 폴더에 들어가서 npm run serve 실행.  
+
+주소는 localhost:3000.  
+
 vue client를 꼭 설치해주세요!  
 
 ```npm install -g @vue/cli```
