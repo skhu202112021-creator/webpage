@@ -22,6 +22,7 @@ AI 도움 없음.
 
 주소는 localhost:3000.  
 
-vue client를 꼭 설치해주세요!  
+vue client, node.js 를 꼭 설치해주세요!
 
-```npm install -g @vue/cli```
+```npm install -g @vue/cli```  
+node.js 설치 : https://nodejs.org/ko/download
