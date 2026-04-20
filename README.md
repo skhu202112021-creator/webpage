@@ -26,3 +26,4 @@ vue client, node.js 를 꼭 설치해주세요!
 
 ```npm install -g @vue/cli```  
 node.js 설치 : https://nodejs.org/ko/download
+만약의 경우를 대비해 Automatically install the necessary tools를 체크하고 설치해주세요.
